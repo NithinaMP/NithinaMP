@@ -1,148 +1,146 @@
-# Hi there, I'm Nithina M P 👋
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%93%B1;MCA+Student+%F0%9F%8E%93;Full+Stack+Enthusiast+%F0%9F%92%BB;Hackathon+Winner+%F0%9F%8F%86;AI+%26+Innovation+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
-</div>
 
----
+# ✦ Nithina M P
 
-## 🚀 About Me
+*MCA Student • Flutter Developer • Backend Explorer*
 
-- 🎓 **MCA Student** passionate about building impactful mobile and web applications
-- 📱 **Flutter Developer** specializing in cross-platform mobile app development
-- 🌍 Based in **Kerala, India**
-- 🏆 **Hackathon Winner** - 1st Prize at ThinkHer Hack 3.0
-- 💡 Currently exploring **AI-powered applications** and **full-stack development**
-- 🌱 Learning **React, Node.js, and advanced Firebase integrations**
-- ⚡ Fun fact: I love solving real-world problems through code!
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Technologies
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 🌟 Featured Projects
-
-### 🧳 [TravelMate](https://github.com/NithinaMP/TravelMate)
-> **Comprehensive Travel & Tourism Mobile Application**
-
-A feature-rich Flutter app designed to enhance travel experiences by helping users:
-- 🗺️ Discover amazing destinations
-- 💰 Get real-time entry fee details
-- 🧭 Navigate routes using **Google Maps API**
-- 📋 Manage and organize travel plans efficiently
-
-**Tech Stack:** Flutter | Firebase | Google Maps API | Firestore
-
----
-
-### 🚗 [Vroom](https://github.com/NithinaMP/Vroom)
-> **Real-Time Car Booking Application** 🏆 *1st Prize - ThinkHer Hack 3.0*
-
-Built during a hackathon, Vroom provides seamless car booking with:
-- 📍 Live car availability tracking
-- 🔥 Firebase backend for real-time updates
-- 🗺️ Google Maps integration for route planning
-- 🎯 User-friendly booking interface
-
-**Tech Stack:** Flutter | Firebase | Google Maps API | Real-time Database
-
----
-
-### 🤖 [BuddyBot](https://github.com/NithinaMP/BuddyBot)
-> **Smart Interactive Chatbot**
-
-An intelligent chatbot built with Python that:
-- 💬 Engages in natural conversations
-- 🎯 Provides helpful responses and assistance
-- 🧠 Demonstrates AI/ML integration capabilities
-
-**Tech Stack:** Python | NLP Libraries
-
----
-
-### 📱 [FirstApp](https://github.com/NithinaMP/FirstApp)
-> **My Flutter Journey Begins**
-
-My first Flutter application created while learning mobile development fundamentals. A milestone project that sparked my passion for app development!
-
-**Tech Stack:** Flutter | Dart
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithinaMP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithinaMP&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinaMP&layout=compact&theme=tokyonight&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=building+things+that+matter;learning+in+public;one+commit+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- 🔨 Building innovative mobile applications with Flutter
-- 🌐 Expanding full-stack development skills (React + Node.js)
-- 🤖 Exploring AI/ML integration in mobile apps
-- 🏆 Participating in hackathons and coding competitions
-- 📚 Contributing to open-source projects
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize** - ThinkHer Hack 3.0 (Vroom Project)
-- 📱 Successfully deployed multiple Flutter applications
-- 🎓 MCA Student with strong academic performance
-- 💻 Active participant in tech innovation programs
-
----
-
-## 📫 Let's Connect!
+## 🛠 Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NithinaMP)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+
+</div>
+
+---
+
+## 🧩 What I Work With
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Dev
+```yaml
+Flutter:
+  - UI/UX layouts & widgets
+  - State management (Provider)
+  - Navigation & routing
+  - Form validation
+  - Firebase integration
+  - Google Maps API
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Backend & Cloud
+```yaml
+Firebase:
+  - Firestore queries
+  - Realtime Database
+  - Authentication
+  - Storage
+  
+Backend:
+  - Node.js + Express
+  - MySQL workflows
+  - XAMPP debugging
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Currently
+
+<div align="center">
+
+```diff
++ Strengthening Flutter architecture & state management patterns
++ Learning backend fundamentals (Node.js + Express + MySQL)
++ Exploring AI integration in mobile apps
++ Building scalable, maintainable project structures
++ Participating in hackathons & innovation programs
+```
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=NithinaMP&color=blueviolet&style=flat-square)
-  
-  ⭐️ From [NithinaMP](https://github.com/NithinaMP)
+
+### 📫 reach out
+
+[![Email](https://img.shields.io/badge/email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/github-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NithinaMP)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithinaMP&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithinaMP&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinaMP&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌊 contribution graph
+
+[![Nithina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NithinaMP&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 github trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NithinaMP&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+*clean code • real solutions • always learning*
+
+![](https://komarev.com/ghpvc/?username=NithinaMP&color=A78BFA&style=flat-square)
 
 </div>
