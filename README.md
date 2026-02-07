@@ -89,8 +89,8 @@ Backend:
 
 ### 📫 reach out
 
-[![Email](https://img.shields.io/badge/email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithina-mp-24595730b)
 [![GitHub](https://img.shields.io/badge/github-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NithinaMP)
 
 </div>
